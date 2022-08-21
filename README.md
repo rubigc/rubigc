@@ -10,7 +10,7 @@ I like: Coding, games, cars and anime.
 
 #### Programming languages
 - Languages I "kind of" know:  
-  - 🐍Python
   - C
+  - 🐍Python
 - Languages I'm learning:
   - 👑Nim👑
