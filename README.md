@@ -14,3 +14,4 @@ I like: Coding, games, cars and anime.
   - 🐍Python
 - Languages I'm learning:
   - 👑Nim👑
+  - C++
