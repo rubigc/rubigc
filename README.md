@@ -3,13 +3,3 @@
 
 #### If you want to reach out to me feel free to message me on
 - Discord "rubigc__"  
-
-#### Programming languages
-- Languages I know:  
-  - C
-  - 🐍Python
-- Languages/tech I "kind of" know:
-  - 👑Nim👑
-  - C++
-  - Html & CSS
-  - SQL
