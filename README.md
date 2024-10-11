@@ -8,5 +8,5 @@
 <p align="center">❤ While you read this I'm probably currently programming, riding my motorcycle, farming in some game or farming bankroll from fishes in nlhe</p>
 
 <p align="center">
-  <a><img src="poker.gif" alt="Banner"></a>
+  <a><img src="cards.gif" alt="Banner"></a>
 </p>
